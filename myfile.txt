@@ -3,3 +3,4 @@ banana
 mango
 lemon
 guava
+pineapple
